@@ -10,7 +10,7 @@ water that would be trapped after raining.
 If interested in my comments and approach, I invite 
 you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/26/leetcode-42-trapping-rain-water-in-java/
 
 Keep on reading, experiemnting and repeating. It is 
 one of the best ways to lear.
